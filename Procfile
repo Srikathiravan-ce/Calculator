@@ -1,1 +1,1 @@
-Web: node calculator.js
+web: node calculator.js
